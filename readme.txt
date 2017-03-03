@@ -4,4 +4,4 @@ Git change2
 Git change3
 Git change4
 Git change5
-Git bug change7
+Git bug is ok change7
